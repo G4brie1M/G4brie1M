@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello there, my name is Gabriel M. Manoel.
+
+I am 23 years old and, currently, I am studying mechatronical engineering at Universidade Federal de Santa Catarina. 

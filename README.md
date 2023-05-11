@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **G4brie1M/G4brie1M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- My name is Gabriel
+Hello there, my name is Gabriel M. Manoel.
